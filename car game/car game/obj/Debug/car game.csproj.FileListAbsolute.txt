@@ -1,0 +1,9 @@
+C:\Users\furkan\Desktop\C# şahsi\car game\car game\bin\Debug\car game.exe.config
+C:\Users\furkan\Desktop\C# şahsi\car game\car game\bin\Debug\car game.exe
+C:\Users\furkan\Desktop\C# şahsi\car game\car game\bin\Debug\car game.pdb
+C:\Users\furkan\Desktop\C# şahsi\car game\car game\obj\Debug\car game.csprojAssemblyReference.cache
+C:\Users\furkan\Desktop\C# şahsi\car game\car game\obj\Debug\car_game.Form1.resources
+C:\Users\furkan\Desktop\C# şahsi\car game\car game\obj\Debug\car_game.Properties.Resources.resources
+C:\Users\furkan\Desktop\C# şahsi\car game\car game\obj\Debug\car game.csproj.GenerateResource.cache
+C:\Users\furkan\Desktop\C# şahsi\car game\car game\obj\Debug\car game.exe
+C:\Users\furkan\Desktop\C# şahsi\car game\car game\obj\Debug\car game.pdb

@@ -1,0 +1,8 @@
+﻿ilk
+yağmur
+kapalı
+açık
+evet
+açık
+
+taşıyıcı 

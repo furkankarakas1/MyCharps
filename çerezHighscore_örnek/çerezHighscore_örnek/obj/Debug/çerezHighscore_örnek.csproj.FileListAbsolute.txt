@@ -1,0 +1,9 @@
+C:\Users\furkan\Desktop\C# şahsi\çerezHighscore_örnek\çerezHighscore_örnek\bin\Debug\çerezHighscore_örnek.exe.config
+C:\Users\furkan\Desktop\C# şahsi\çerezHighscore_örnek\çerezHighscore_örnek\bin\Debug\çerezHighscore_örnek.exe
+C:\Users\furkan\Desktop\C# şahsi\çerezHighscore_örnek\çerezHighscore_örnek\bin\Debug\çerezHighscore_örnek.pdb
+C:\Users\furkan\Desktop\C# şahsi\çerezHighscore_örnek\çerezHighscore_örnek\obj\Debug\çerezHighscore_örnek.csprojAssemblyReference.cache
+C:\Users\furkan\Desktop\C# şahsi\çerezHighscore_örnek\çerezHighscore_örnek\obj\Debug\çerezHighscore_örnek.Form1.resources
+C:\Users\furkan\Desktop\C# şahsi\çerezHighscore_örnek\çerezHighscore_örnek\obj\Debug\çerezHighscore_örnek.Properties.Resources.resources
+C:\Users\furkan\Desktop\C# şahsi\çerezHighscore_örnek\çerezHighscore_örnek\obj\Debug\çerezHighscore_örnek.csproj.GenerateResource.cache
+C:\Users\furkan\Desktop\C# şahsi\çerezHighscore_örnek\çerezHighscore_örnek\obj\Debug\çerezHighscore_örnek.exe
+C:\Users\furkan\Desktop\C# şahsi\çerezHighscore_örnek\çerezHighscore_örnek\obj\Debug\çerezHighscore_örnek.pdb

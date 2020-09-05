@@ -1,0 +1,9 @@
+C:\Users\furkan\Desktop\C# şahsi\kapsamlıMakine\kapsamlıMakine\bin\Debug\kapsamlıMakine.exe.config
+C:\Users\furkan\Desktop\C# şahsi\kapsamlıMakine\kapsamlıMakine\bin\Debug\kapsamlıMakine.exe
+C:\Users\furkan\Desktop\C# şahsi\kapsamlıMakine\kapsamlıMakine\bin\Debug\kapsamlıMakine.pdb
+C:\Users\furkan\Desktop\C# şahsi\kapsamlıMakine\kapsamlıMakine\obj\Debug\kapsamlıMakine.csprojAssemblyReference.cache
+C:\Users\furkan\Desktop\C# şahsi\kapsamlıMakine\kapsamlıMakine\obj\Debug\kapsamlıMakine.Form1.resources
+C:\Users\furkan\Desktop\C# şahsi\kapsamlıMakine\kapsamlıMakine\obj\Debug\kapsamlıMakine.Properties.Resources.resources
+C:\Users\furkan\Desktop\C# şahsi\kapsamlıMakine\kapsamlıMakine\obj\Debug\kapsamlıMakine.csproj.GenerateResource.cache
+C:\Users\furkan\Desktop\C# şahsi\kapsamlıMakine\kapsamlıMakine\obj\Debug\kapsamlıMakine.exe
+C:\Users\furkan\Desktop\C# şahsi\kapsamlıMakine\kapsamlıMakine\obj\Debug\kapsamlıMakine.pdb

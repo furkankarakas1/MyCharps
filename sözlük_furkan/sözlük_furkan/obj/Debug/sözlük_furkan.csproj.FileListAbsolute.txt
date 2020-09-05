@@ -1,0 +1,9 @@
+C:\Users\furkan\Desktop\C# şahsi\sözlük_furkan\sözlük_furkan\bin\Debug\sözlük_furkan.exe.config
+C:\Users\furkan\Desktop\C# şahsi\sözlük_furkan\sözlük_furkan\bin\Debug\sözlük_furkan.exe
+C:\Users\furkan\Desktop\C# şahsi\sözlük_furkan\sözlük_furkan\bin\Debug\sözlük_furkan.pdb
+C:\Users\furkan\Desktop\C# şahsi\sözlük_furkan\sözlük_furkan\obj\Debug\sözlük_furkan.csprojAssemblyReference.cache
+C:\Users\furkan\Desktop\C# şahsi\sözlük_furkan\sözlük_furkan\obj\Debug\sözlük_furkan.Form1.resources
+C:\Users\furkan\Desktop\C# şahsi\sözlük_furkan\sözlük_furkan\obj\Debug\sözlük_furkan.Properties.Resources.resources
+C:\Users\furkan\Desktop\C# şahsi\sözlük_furkan\sözlük_furkan\obj\Debug\sözlük_furkan.csproj.GenerateResource.cache
+C:\Users\furkan\Desktop\C# şahsi\sözlük_furkan\sözlük_furkan\obj\Debug\sözlük_furkan.exe
+C:\Users\furkan\Desktop\C# şahsi\sözlük_furkan\sözlük_furkan\obj\Debug\sözlük_furkan.pdb
